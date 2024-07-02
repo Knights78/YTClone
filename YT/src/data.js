@@ -1,4 +1,4 @@
-const api_key='AIzaSyBbZfgP6IcQyYWHsH0GvzSWGpT_Xy5gEQU'
+const api_key='YOUR_KEY'
 const converter=(value)=>{
     if(value>=1000000)
         {
